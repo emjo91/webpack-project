@@ -39,4 +39,4 @@ Thumbs.db
 bower_components/
 node_modules/
 /.sass-cache/*
-/stylesheets/*
+/stylesheets/*node_modules/
