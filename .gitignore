@@ -40,3 +40,4 @@ bower_components/
 node_modules/
 /.sass-cache/*
 /stylesheets/*node_modules/
+package-lock.json
